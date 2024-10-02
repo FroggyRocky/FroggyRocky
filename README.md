@@ -29,6 +29,5 @@ Here’s the tech that gets me up in the morning:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ### 🌍 Let’s Connect:
-- [GitHub](https://github.com/FroggyRocky)
 - [LinkedIn](https://www.linkedin.com/in/danila-kuznetsov/)
 - [Email](mailto:danilabmt@gmail.com)
