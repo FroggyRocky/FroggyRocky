@@ -28,27 +28,6 @@ Here’s the tech that gets me up in the morning:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
----
-
-### 📈 GitHub Stats:
-Here’s a snapshot of what I’ve been up to:
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FroggyRocky&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FroggyRocky&layout=compact&hide_border=true&theme=radical" />
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-Because why not display a few achievements, right?
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FroggyRocky&theme=radical" />
-</p>
-
----
-
 ### 🌍 Let’s Connect:
 - [GitHub](https://github.com/FroggyRocky)
 - [LinkedIn](https://www.linkedin.com/in/danila-kuznetsov/)
