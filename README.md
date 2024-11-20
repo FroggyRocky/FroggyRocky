@@ -1,6 +1,6 @@
 # Hey, I'm Danila <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<img src="https://steam-badge.vercel.app/api/steam-badge.svg?steamId=76561199388121132" alt="Steam Status Badge" width="540" height="52" />
+<img src="https://steam-badge.vercel.app/api/steam-badge.svg?steamId=76561199388121132" alt="Steam Status Badge" />
 
 
 ### 🚀 About Me:
