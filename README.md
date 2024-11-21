@@ -1,13 +1,13 @@
-# Hey, I'm Danila <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hey, I'm Danila Web3 Software Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <a href='https://github.com/FroggyRocky/steam-badge'>
 <img src="https://steam-badge.vercel.app/api/steam-badge.svg?steamId=76561199388121132" alt="Steam Status Badge" />
 </a>
 
 
 ### 🚀 About Me:
-I'm not just a coder—I’m an architect of scalable systems, full-stack applications, and blockchain innovations. With a relentless drive for performance, security, and sleek user experiences, I’ve spent over 9 years pushing boundaries and leading teams to the next frontier. Always chasing the cutting edge, and rarely settling for “good enough.”
+I’m a developer and  architect of scalable systems, full-stack and blockchain applications. With a relentless drive for performance, security, and sleek user experiences, I’ve spent over 7+ years pushing boundaries and leading teams to the next frontier. Always chasing the cutting edge.
 
-- 🔭 Currently building next-gen solutions at **RSTLSS**
+- 🔭 Currently I am a Tech Lead and Senior Dev Manager at [RSTLSS](https://rstlss.xyz/)
 - 🧠 Diving deeper into **blockchain** and **AI**
 - 👯 Open to collaboration on bleeding-edge **Web3** projects
 - 💬 Let’s talk **React, Next.js, Nodejs, Solidity, or anything blockchain-related**
